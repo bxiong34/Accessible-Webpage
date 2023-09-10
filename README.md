@@ -12,8 +12,10 @@ N/A
 
 ## Usage
 
-To use this website, maneuver around the navbar at the top and click on the option that you want. Once you click on an option, you will be taken to the section that applies.
+To use this website (https://bxiong34.github.io/Simple-Accessible-Webpage/), maneuver around the navbar at the top and click on the option that you want. Once you click on an option, you will be taken to the section that applies. Please refer to the screenshots below.
 
+![Alt text](<Screenshot 2023-09-10 at 12.22.42 AM.png>)
+![Alt text](<Screenshot 2023-09-10 at 12.23.04 AM.png>)
 
 ## Credits
 
