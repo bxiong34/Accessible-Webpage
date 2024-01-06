@@ -13,6 +13,7 @@ a {
     text-decoration: none;
 }
 
+/* footer */
 footer {
     padding: 30px;
     clear: both;
@@ -39,6 +40,7 @@ p {
     font-size: 16px;
 }
 
+/* navbar section */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,6 +53,7 @@ header h1 {
     font-size: 48px;
 }
 
+/* navbar ul */
 header section {
     padding-top: 15px;
     margin-right: 20px;
@@ -59,18 +62,19 @@ header section {
     font-size: 20px;
 }
 
-
+/* navbar li */
 header section ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
 
-
+/* seo on navbar title to have a different color */
 .seo {
     color: #d9dcd6;
 }
 
+/* entire section on contents */
 .hero {
     height: 800px;
     width: 100%;
@@ -80,6 +84,7 @@ header section ul li {
     background-position: center;
 }
 
+/* displays the 3 different content containers */
 .content {
     width: 75%;
     display: inline-block;
@@ -95,21 +100,24 @@ header section ul li {
     color: #ffffff;
 }
 
+/* content images */
 .content-titles img {
     max-height: 200px;
 }
 
+/* make content images float on left side */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* make content images float on right side */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-
+/* entire section on benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
